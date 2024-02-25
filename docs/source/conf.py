@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'ECT-SQI'
+copyright = '2024, Kayser'
+author = 'Kayser'
 
 release = '0.1'
 version = '0.1.0'
